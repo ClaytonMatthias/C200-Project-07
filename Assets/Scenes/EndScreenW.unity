@@ -122,6 +122,18 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &122087374 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8751696135693869269, guid: 4840a4b34464d4c4a887537682d495df,
+    type: 3}
+  m_PrefabInstance: {fileID: 6314107374874644438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &167412243
 GameObject:
   m_ObjectHideFlags: 0
@@ -741,6 +753,18 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!114 &547733572 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3614315395182467393, guid: 4840a4b34464d4c4a887537682d495df,
+    type: 3}
+  m_PrefabInstance: {fileID: 6314107374874644438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &625967508
 GameObject:
   m_ObjectHideFlags: 0
@@ -834,6 +858,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &820943037 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7010278786337755892, guid: 4840a4b34464d4c4a887537682d495df,
+    type: 3}
+  m_PrefabInstance: {fileID: 6314107374874644438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &955536724
 GameObject:
   m_ObjectHideFlags: 0
@@ -1421,6 +1457,18 @@ LightingSettings:
   m_PVRTiledBaking: 0
   m_NumRaysToShootPerTexel: -1
   m_RespectSceneVisibilityWhenBakingGI: 0
+--- !u!114 &1220473272 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7984889729131999245, guid: 4840a4b34464d4c4a887537682d495df,
+    type: 3}
+  m_PrefabInstance: {fileID: 6314107374874644438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1498124531
 GameObject:
   m_ObjectHideFlags: 0
@@ -11754,6 +11802,18 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 368e7416084f15240a80944fa5bf1a6d, type: 3}
+--- !u!114 &2063595677 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6744025995723487742, guid: 4840a4b34464d4c4a887537682d495df,
+    type: 3}
+  m_PrefabInstance: {fileID: 6314107374874644438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2126621617
 GameObject:
   m_ObjectHideFlags: 0
@@ -12011,9 +12071,50 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5378633787117563778, guid: 4840a4b34464d4c4a887537682d495df,
         type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"animator","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
+        UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Score","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"HighScore","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"WinCondition","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PlayAgain","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MainMenu","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5378633787117563778, guid: 4840a4b34464d4c4a887537682d495df,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5378633787117563778, guid: 4840a4b34464d4c4a887537682d495df,
+        type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
       objectReference: {fileID: 630442140}
+    - target: {fileID: 5378633787117563778, guid: 4840a4b34464d4c4a887537682d495df,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 122087374}
+    - target: {fileID: 5378633787117563778, guid: 4840a4b34464d4c4a887537682d495df,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 1220473272}
+    - target: {fileID: 5378633787117563778, guid: 4840a4b34464d4c4a887537682d495df,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 820943037}
+    - target: {fileID: 5378633787117563778, guid: 4840a4b34464d4c4a887537682d495df,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 2063595677}
+    - target: {fileID: 5378633787117563778, guid: 4840a4b34464d4c4a887537682d495df,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 547733572}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
